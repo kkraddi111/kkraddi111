@@ -3,7 +3,7 @@ Hi, I'm Kiran Raddi 👋
 I'm a passionate software developer from Jamkhandi, Karnataka, currently pursuing my Master's in Computer Applications (MCA) at Basaveshwar Engineering College. I'm dedicated to building innovative solutions and constantly expanding my technical expertise.
 
 💫 About Me
-- 🎓 Currently pursuing MCA at Basaveshwar Engineering College (2023-2025)
+- 🎓 Currently pursuing MCA at Basaveshwar Engineering College (2023-2025) at Vidyagiri Bagalkot
 - 💼 Former Software Developer Intern at Techciti Software Consulting
 - 🌱 Passionate about Web Development and Cloud Computing
 - 💻 Love building projects that solve real-world problems
