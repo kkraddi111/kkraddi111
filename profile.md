@@ -12,9 +12,8 @@ I'm a passionate software developer from Jamkhandi, Karnataka, currently pursuin
 🛠️ Technical Skills
 ```text
 Frontend Development    HTML, CSS, JavaScript
-Backend Development    Python, Django, PHP
+Backend Development    Python, Django
 Databases             MySQL, SQLite3
-Libraries             Pillow, Widget-tweaks, sklearn, pandas, numpy
 ```
 
 💼 Featured Projects
