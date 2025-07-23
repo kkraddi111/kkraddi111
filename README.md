@@ -41,9 +41,11 @@ Quiz Management System | PHP
 📬 Connect with Me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kkraddi111@gmail.com)
 
----
-⭐️ From [kkraddi111](https://github.com/kkraddi111)
 LinkedIn: https://www.linkedin.com/in/kiran-raddi-69480b374/
 Portfolio: https://kkraddi111.github.io/Kiran-portfolio/
+
+---
+⭐️ From [kkraddi111](https://github.com/kkraddi111)
+
 
 
