@@ -43,5 +43,7 @@ Quiz Management System | PHP
 
 ---
 ⭐️ From [kkraddi111](https://github.com/kkraddi111)
+LinkedIn: https://www.linkedin.com/in/kiran-raddi-69480b374/
+Portfolio: https://kkraddi111.github.io/Kiran-portfolio/
 
 
