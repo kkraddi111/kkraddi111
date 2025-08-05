@@ -111,13 +111,13 @@ Complete quiz platform with comprehensive user management and analytics capabili
 ---
 
 ## 📈 Current Focus
-'''
+```
 🔍 Exploring AWS Services:
 ├── EC2 (Elastic Compute Cloud)
 ├── S3 (Simple Storage Service)
 ├── RDS (Relational Database Service)
 └── Lambda (Serverless Computing)
-'''
+```
 
 ## 🎯 Goal: Building scalable, cloud-native applications
 ---
