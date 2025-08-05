@@ -53,33 +53,6 @@ Currently pursuing **Master's in Computer Applications (MCA)** at Basaveshwar En
 
 ---
 
-## 🏆 Featured Projects
-
-### 🌾 Crop Recommendation System
-**Technologies**: `Python` `Django` `Machine Learning`
-
-An intelligent agricultural solution that analyzes soil conditions and climate data to recommend optimal crop selections for farmers.
-
-**Key Features:**
-- Advanced ML algorithms for accurate crop prediction
-- Intuitive farmer-friendly interface design
-- Real-time data processing and recommendations
-
----
-
-### 📝 Quiz Management System
-**Technologies**: `PHP` `MySQL` `JavaScript`
-
-Complete quiz platform with comprehensive user management and analytics capabilities.
-
-**Key Features:**
-- Secure user authentication system
-- Real-time result tracking and analytics
-- Responsive cross-platform design
-- Administrative dashboard for quiz management
-
----
-
 ## 💼 Professional Experience
 
 ### 🚀 Software Development Engineering Intern (Current)
@@ -110,12 +83,41 @@ July 2025 - September 2025 (2 months) | Remote
 
 ---
 
+## 🏆 Featured Projects
+
+### 🌾 Crop Recommendation System
+**Technologies**: `Python` `Django` `Machine Learning`
+
+An intelligent agricultural solution that analyzes soil conditions and climate data to recommend optimal crop selections for farmers.
+
+**Key Features:**
+- Advanced ML algorithms for accurate crop prediction
+- Intuitive farmer-friendly interface design
+- Real-time data processing and recommendations
+
+---
+
+### 📝 Quiz Management System
+**Technologies**: `PHP` `MySQL` `JavaScript`
+
+Complete quiz platform with comprehensive user management and analytics capabilities.
+
+**Key Features:**
+- Secure user authentication system
+- Real-time result tracking and analytics
+- Responsive cross-platform design
+- Administrative dashboard for quiz management
+
+---
+
 ## 📈 Current Focus
+'''
 🔍 Exploring AWS Services:
 ├── EC2 (Elastic Compute Cloud)
 ├── S3 (Simple Storage Service)
 ├── RDS (Relational Database Service)
 └── Lambda (Serverless Computing)
+'''
 
 ## 🎯 Goal: Building scalable, cloud-native applications
 ---
