@@ -1,6 +1,8 @@
 <div align="center">
 
-# <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/32b0b1d5-7053-45ea-8aa2-31255d2a3826" /> Kiran Raddi
+# <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/32b0b1d5-7053-45ea-8aa2-31255d2a3826" /> 
+
+Kiran Raddi
 ### Software Developer | MCA Student | Problem Solver
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kkraddi111@gmail.com)
