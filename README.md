@@ -58,31 +58,62 @@ Currently pursuing **Master's in Computer Applications (MCA)** at Basaveshwar En
 ## 💼 Professional Experience
 
 ### 🚀 Software Development Engineering Intern (Current)
-### Yuga Yatra Retail (OPC) Pvt. Ltd.
-July 2025 - September 2025 (2 months) | Remote
-**🎯 What I'm Building:**
 
-🎨 Crafting next-generation web and mobile interfaces that blend creativity with functionality using Cursor AI
-🔐 Developing secure, lightning-fast authentication and data management systems through Firebase Studio
-✨ Transforming ideas into visually compelling designs that captivate users with Canva Pro
-🛍️ Revolutionizing e-commerce workflows for Amazon and Flipkart sellers to boost their business efficiency
-🌐 Leading freelance projects on Upwork, delivering custom solutions to clients worldwide
-📊 Orchestrating smooth team coordination and project management via Google Workspace
+**Yuga Yatra Retail (OPC) Pvt. Ltd.** | *Remote*
 
-🔥 My Tech Playground: Cursor AI, Firebase Studio, Canva Pro, Google Workspace, E-commerce APIs
-💡 What This Experience going to Teach Me: AI-powered development, international client relations, startup agility, design thinking
+**Duration:** July 2025 - September 2025 (2 months)
 
-**🙏 Grateful to be part of this incredible journey! Thrilled to contribute to innovative retail solutions under the guidance of Mr. Debashish Kumar, CEO, and the amazing team at Yuga Yatra Retail.**
+---
 
-### Python Developer Intern
+### 🎯 What I'm Building:
+
+- 🎨 **Creative Web & Mobile UIs:** Crafting next-generation interfaces that blend creativity with functionality using Cursor AI
+
+- 🔐 **Secure Authentication Systems:** Developing lightning-fast authentication and data management systems through Firebase Studio
+
+- ✨ **Visual Design Excellence:** Transforming ideas into captivating user experiences with Canva Pro
+
+- 🛍️ **E-commerce Innovation:** Revolutionizing Amazon & Flipkart seller workflows to boost business efficiency
+
+- 🌐 **Global Freelance Leadership:** Leading custom solution projects on Upwork for international clients
+
+- 📊 **Team Coordination:** Orchestrating seamless project management through Google Workspace
+
+---
+
+### 🔥 My Tech Playground:
+Cursor AI, Firebase Studio, Canva Pro, Google Workspace, E-commerce APIs
+
+### 💡 Learning Outcomes:
+AI-powered development, international client relations, startup agility, design thinking
+
+---
+
+**🙏 Grateful for this incredible journey and honored to contribute to innovative retail solutions under the guidance of Mr. Debashish Kumar, CEO, and the amazing Yuga Yatra Retail team.**
+
+### 🐍 Python Developer Intern
+
 **Techciti Software Consulting** | *Remote*
 
-**Project**: Cold Storage Management System
-- Architected and developed comprehensive management solution using **Python & Django**
-- Implemented responsive frontend interfaces with **HTML, CSS, JavaScript**
-- Designed and optimized database operations using **SQLite3**
-- Collaborated with cross-functional teams to deliver project milestones
+---
 
+### 🎯 Project Spotlight: Cold Storage Management System
+
+- ⚡ **System Architecture:** Designed and developed comprehensive management solution using **Python & Django**
+
+- 🎨 **Frontend Excellence:** Implemented responsive, user-friendly interfaces with **HTML, CSS, JavaScript**
+
+- 🗄️ **Database Optimization:** Engineered and optimized database operations using **SQLite3**
+
+- 🤝 **Team Collaboration:** Successfully collaborated with cross-functional teams to deliver key project milestones
+
+---
+
+### 🔥 Tech Stack:
+Python, Django, HTML, CSS, JavaScript, SQLite3
+
+### 💡 Key Achievements:
+Full-stack development, database design, team collaboration, project delivery
 ---
 
 ## 📊 GitHub Statistics
