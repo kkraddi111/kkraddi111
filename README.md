@@ -56,7 +56,7 @@ Currently pursuing **Master's in Computer Applications (MCA)** at Basaveshwar En
 ---
 
 ## 💼 Professional Experience
-
+---
 ### 🚀 Software Development Engineering Intern (Current)
 
 **Yuga Yatra Retail (OPC) Pvt. Ltd.** | *Remote*
