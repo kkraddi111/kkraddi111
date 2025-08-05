@@ -79,7 +79,6 @@ Currently pursuing **Master's in Computer Applications (MCA)** at Basaveshwar En
 
 - 📊 **Team Coordination:** Orchestrating seamless project management through Google Workspace
 
----
 
 ### 🔥 My Tech Playground:
 Cursor AI, Firebase Studio, Canva Pro, Google Workspace, E-commerce APIs
@@ -87,10 +86,10 @@ Cursor AI, Firebase Studio, Canva Pro, Google Workspace, E-commerce APIs
 ### 💡 Learning Outcomes:
 AI-powered development, international client relations, startup agility, design thinking
 
----
 
 **🙏 Grateful for this incredible journey and honored to contribute to innovative retail solutions under the guidance of Mr. Debashish Kumar, CEO, and the amazing Yuga Yatra Retail team.**
 
+---
 ### 🐍 Python Developer Intern
 
 **Techciti Software Consulting** | *Remote*
@@ -106,8 +105,6 @@ AI-powered development, international client relations, startup agility, design 
 - 🗄️ **Database Optimization:** Engineered and optimized database operations using **SQLite3**
 
 - 🤝 **Team Collaboration:** Successfully collaborated with cross-functional teams to deliver key project milestones
-
----
 
 ### 🔥 Tech Stack:
 Python, Django, HTML, CSS, JavaScript, SQLite3
