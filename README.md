@@ -19,7 +19,7 @@
 
 > Passionate Python developer from **Jamkhandi, Karnataka**, building cloud-powered web applications.
 
-Recently completed **Master's in Computer Applications (MCA)** at Basaveshwar Engineering College, Vidyagiri Bagalkot *(2023–2025 | CGPA: 7.80)*. I specialize in Python, Django, Flask, and AWS cloud services, building solutions that solve real-world problems with clean code and user-centric design.
+Recently completed **Master's in Computer Applications (MCA)** at Basaveshwar Engineering College, Vidyagiri Bagalkot (2023–2025 )| . I specialize in Python, Django, Flask, and AWS cloud services, building solutions that solve real-world problems with clean code and user-centric design.
 
 - 🎯 **Mission**: Creating technology solutions that make a real difference
 - ☁️ **Cloud Focus**: AWS — S3, Lambda, DynamoDB, SNS, IAM with Boto3
