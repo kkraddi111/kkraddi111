@@ -149,22 +149,15 @@ Recently completed **Master's in Computer Applications (MCA)** at Basaveshwar En
 
 ---
 
-## 🎓 Education
-
-| Degree | Institution | Year | CGPA |
-|---|---|---|---|
-| MCA – Master of Computer Applications | Basaveshwar Engineering College, Bagalkot | 2023–2025 | 7.80 |
-| BCA – Bachelor of Computer Applications | STC Arts and Commerce College, Banahatti | 2020–2023 | 6.60 |
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kkraddi111&show_icons=true&theme=radical&hide_border=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kkraddi111&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkraddi111&layout=compact&theme=radical&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kkraddi111&layout=compact&theme=radical&hide_border=true&cache_seconds=1800)](https://github.com/kkraddi111)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kkraddi111&theme=redical&hide_border=true)](https://github.com/kkraddi111)
 
 </div>
 
