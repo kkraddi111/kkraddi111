@@ -19,7 +19,7 @@
 
 > Passionate software developer from **Jamkhandi, Karnataka**, crafting innovative solutions through code.
 
-Currently pursuing **Master's in Computer Applications (MCA)** at Basaveshwar Engineering College, Vidyagiri Bagalkot *(2023-2025)*. I specialize in building robust web applications that solve real-world problems, with a focus on clean code and user-centric design.
+Recently completed **Master's in Computer Applications (MCA)** at Basaveshwar Engineering College, Vidyagiri Bagalkot *(2023-2025)*. I specialize in building robust web applications that solve real-world problems, with a focus on clean code and user-centric design.
 
 - 🎯 **Mission**: Creating technology solutions that make a difference
 - 🌱 **Currently Learning**: Advanced web technologies, cloud computing, and exploring **AWS**
