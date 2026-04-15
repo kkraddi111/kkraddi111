@@ -24,7 +24,7 @@ Recently completed **Master's in Computer Applications (MCA)** at Basaveshwar En
 - 🎯 **Mission**: Creating technology solutions that make a difference
 - 🌱 **Currently Learning**: Advanced web technologies, cloud computing, and exploring **AWS**
 - ☁️ **Cloud Journey**: Diving deep into Amazon Web Services for scalable solutions
-- 💡 **Passionate About**: Full-stack development, machine learning applications
+- 💡 **Passionate About**: Data analysis and Python Development
 - 📍 **Location**: Jamkhandi, Karnataka, India
 
 ---
